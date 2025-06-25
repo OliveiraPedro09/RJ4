@@ -1,4 +1,4 @@
-import { Company, Customer, Phone, Address } from 'RJ4-Engine';
+import { Company, Customer, Phone, Address } from './RJ4-Engine/engine.js';
 
 let companyAddress = new Address("Rio de Janeiro", "Rio de Janeiro", "Avenida Atlântica", 500)
 let companyPhone1 = new Phone(21, "2567-8901")
