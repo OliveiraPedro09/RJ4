@@ -1,3 +1,5 @@
+import { Company, Customer, Phone, Address } from 'RJ4-Engine';
+
 let companyAddress = new Address("Rio de Janeiro", "Rio de Janeiro", "Avenida Atlântica", 500)
 let companyPhone1 = new Phone(21, "2567-8901")
 let companyPhone2 = new Phone(21, "9845-1234")
